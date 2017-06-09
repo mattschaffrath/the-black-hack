@@ -6,7 +6,7 @@ Ein ‘OSR’-Hack der Ersten Edition
 entwickelt von  
 DAVID BLACK  
 
-Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer und Marc Meischke.
 
 -.-  
 
@@ -14,7 +14,7 @@ Mit Elementen der 'originalen' Rollenspiel-Ära sowie moderner d20-Theorie.
 
 **DANKESCHÖN AN**  
 
-In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
+In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
 
 ----
 
