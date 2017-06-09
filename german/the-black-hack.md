@@ -117,9 +117,9 @@ Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die
 
 Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
-| SCHLAGWEITE |  SCHRITTWEITE  | SCHUSSWEITE  |
-|:----------:|:-------------:|:--------:|
-|  0 - 1,5m  |   1,5 - 20m   | 20 - 40m |
+| SCHLAGWEITE | SCHRITTWEITE | SCHUSSWEITE |
+|:-----------:|:------------:|:-----------:|
+|  0 - 1,5m   |  1,5 - 20m   |  20 - 40m   |
 
 ## Initiative
 
