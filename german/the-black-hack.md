@@ -113,7 +113,7 @@ Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) 
 
 ## Bewegung und Entfernung
 
-Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Schlagweite**, **Schrittweite**, **Schussweite** und **Sichtweite**. Während eines Zugs können sich Charaktere irgendwo in **Schrittweite** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich in**Schussweite** zu positionieren. Alles jenseits von **Schussweite** gilt als in**Sichtweite** und würde drei Bewegungen erfordern.
+Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Schlagweite**, **Schrittweite**, **Schussweite** und **Sichtweite**. Während eines Zugs können sich Charaktere irgendwo in **Schrittweite** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich in **Schussweite** zu positionieren. Alles jenseits von **Schussweite** gilt als in **Sichtweite** und würde drei Bewegungen erfordern.
 
 Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
