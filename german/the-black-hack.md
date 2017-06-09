@@ -14,7 +14,7 @@ Mit Elementen der 'originalen' Rollenspiel-Ära sowie moderner d20-Theorie.
 
 **DANKESCHÖN AN**  
 
-In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt haben (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
+In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
 
 ----
 
@@ -455,7 +455,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Astrale Anrufung :** Projiziert einen Avatar des Klerikers in eine gewählte Existenzebene - 1Std.
 * **Wetterkontrolle :** Kontrolliert Wetter in Schrittweite bis in jedes Extrem - 10Min.
 * **Erdbeben :** Mache eine **WEI**-Probe für alle Wesen in Schrittweite, bei Erfolg sind sie Außer Gefecht.
-* **Heiliges Wort :** Wesen in Schrittweite mit weniger als 5 TW sterben, 6-10TW sind für 1W4 Runden erstarrt.
+* **Heiliges Wort :** Wesen in Schrittweite mit weniger als 5TW sterben, 6-10 TW sind für 1W4 Runden erstarrt.
 * **Windlauf :** Verwandle dich nach Belieben in Nebel und wieder zurück - 1Tag.
 * **Wiederherstellung :** Stellt alle Stufen wieder her, die an Monster mit Stufenraub verloren wurden.
 
@@ -498,7 +498,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **5**
 
 * **Tote Erheben :** Macht 2W4 Leichen in Schrittweite zu Skeletten/Zombies mit TW/Stufe.
-* **Todeswolke :** Jedes Wesen mit weniger als 5TW, das sie berührt, ist bei gelungener INT-Probe Außer Gefecht – 1Std.
+* **Todeswolke :** Jedes Wesen mit weniger als 5TW, das sie berührt, ist bei gelungener **INT**-Probe Außer Gefecht – 1Std.
 * **Elementar Beschwören :** Erschaffe einen Elementar nach Wahl mit 3W4 TW.
 * **Kontakt zu Höheren Ebenen :** Stelle 1 Frage/Stufe.
 * **Schwachsinn :** Senke die **INT** eines Ziels in Schrittweite auf 4 - 10Min/Stufe.
