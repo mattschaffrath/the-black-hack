@@ -4,7 +4,7 @@ von David Black
 
 v1.2
 
-Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer und Marc Meischke.
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
 -.-
 
