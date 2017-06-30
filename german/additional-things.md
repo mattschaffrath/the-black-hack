@@ -4,17 +4,17 @@ von David Black
 
 v1.2
 
-Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer und Marc Meischke.
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
 -.-
 
 ## Danke
 
-Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, dass Du den Kickstarter gebackt/ein PDF auf RPG.now gekauft hast. Danke dafür. Vielen Dank. Das liest sich vielleicht sarkastisch, ist aber nicht so gemeint, ich bin wirklich dankbar. Das hier ist ein kleines Extra, um zu zeigen, wie sehr ich all die Unterstützung schätze, die Ihr TBH geschenkt habt! Ach ja, und wenn Du nicht beim Kickstarter mitgemacht/ein PDF gekauft hast, hast Du das Buch wohl irgendwie raubkopiert. In dem Fall fühle ich mich einfach geschmeichelt, dass es Dir das wert war.
+Wenn Du das hier liest, kann man mit großer Wahrscheinlichkeit davon ausgehen, dass Du den Kickstarter gebackt/ein PDF auf RPG.now gekauft hast. Danke dafür. Vielen Dank. Das liest sich vielleicht sarkastisch, ist aber nicht so gemeint, ich bin wirklich dankbar. Das hier ist ein kleines Extra, um zu zeigen, wie sehr ich all die Unterstützung schätze, die Ihr TBH geschenkt habt! Ach ja, und wenn Du *nicht* beim Kickstarter mitgemacht/ein PDF gekauft hast, hast Du das Buch wohl irgendwie raubkopiert. In dem Fall fühle ich mich einfach geschmeichelt, dass es Dir das wert war.
 
 ## Alternative Regeln
 
-**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon was Ihr wollt, wenn Ihr wollt, für Euer Spiel. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, oder?
+**Mehr Kram** ist eine Sammlung von optionalen Regeln, Anmerkungen, Vorschlägen und anderen Ideen, die es, aus dem einen oder anderen Grund, nicht in das TBH-Minigrundregelwerk geschafft haben. Meistens aus Platzgründen, oder vielleicht, weil sie dämlich sind - ich überlasse Euch die Entscheidung. Übernehmt davon für Euer Spiel was Ihr wollt, wenn Ihr wollt. Manches hier ist schon auf meinem Blog oder in Sozialen Medien erschienen - aber es ist gut, wenn alles schön ordentlich beieinander ist, oder?
 
 ## Überladung
 
@@ -47,14 +47,14 @@ Beim Erkunden unterirdischer Orte ist Licht unheimlich wichtig. Wenn Charaktere 
 
 Am Anfang ihrer Runde müssen sie auf die **Panik!**-Tabelle würfeln und am Ende der Runde legen sie eine **WEI**-Probe ab, um sich wieder in den Griff zu bekommen. Das geht so weiter, bis sie ihre **WEI**-Probe schaffen.
 
-|   | PANIK!                                                                                      |
-|:-:|:--------------------------------------------------------------------------------------------|
-| 1 | **Zähne Zusammenbeißen** - Mach noch eine freie **WEI**-Probe, um der Panik Herr zu werden. |
-| 2 | **Wie Festgewurzelt** - Kann sich diese Runde nicht bewegen.                                |
-| 3 | **Schock** - Kann keine Handlungen durchführen, für die man seine Hände braucht.            |
-| 4 | **Ungeschickt** - Der *Spieler* muss diese Runde alles mit geschlossenen Augen tun.         |
-| 5 | **Schnappatmung** - **AUS** ist um 2 verringert.                                            |
-| 6 | **Herzattacke** - Außer Gefecht                                                             |
+|   | PANIK!                                                                                        |
+|:-:|:----------------------------------------------------------------------------------------------|
+| 1 | **Zähne Zusammenbeißen** - Leg noch eine freie **WEI**-Probe ab, um der Panik Herr zu werden. |
+| 2 | **Wie Festgewurzelt** - Kann sich diese Runde nicht bewegen.                                  |
+| 3 | **Schock** - Kann keine Handlungen durchführen, für die man seine Hände braucht.              |
+| 4 | **Ungeschickt** - Der *Spieler* muss diese Runde alles mit geschlossenen Augen tun.           |
+| 5 | **Schnappatmung** - **AUS** ist um 2 verringert.                                              |
+| 6 | **Herzattacke** - Außer Gefecht                                                               |
 
 *Ich persönlich glaube, die Panik!-Regeln sind ein spaßiges Zusatzelement für jede Dungeonerforschung - aber sie sind bestimmt nicht nach jedermanns Geschmack, also sind sie aus Platzgründen aus dem Grundregelwerk geflogen. Wenn Euch der 'Partyspiel'-Stil des Ungeschickt-Ergebnisses nicht gefällt, ersetzt es durch etwas Langweiligeres.*
 
@@ -130,7 +130,7 @@ Am Anfang einer Spielsitzung würfeln alle Charaktere den **Vorratswürfel** ihr
 
 Sobald sie eine Ration gegessen haben, gewinnen Charaktere 1 **TW Trefferpunkte** zurück. Sie können mehr Rationen essen, wenn die Geschichte es erfordert - aber sie können nur einmal pro Spielsitzung den Heileffekt nutzen.
 
-*Das ist sicherlich eine sehr abstrakte Herangehensweise and Hunger - vielleicht sollte man sie sich näher ansehen, wenn  man es gern übertreibt oder die 'langweiligen Aspekte' des Lebens lieber handwedelt.*
+*Das ist sicherlich eine sehr abstrakte Darstellungsweise für Hunger - vielleicht sollte man sie sich näher ansehen, wenn  man es gern übertreibt oder die 'langweiligen Aspekte' des Lebens lieber handwedelt.*
 
 ## Schwächere Gegner
 

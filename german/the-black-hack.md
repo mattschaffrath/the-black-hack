@@ -6,15 +6,15 @@ Ein ‘OSR’-Hack der Ersten Edition
 entwickelt von  
 DAVID BLACK  
 
-Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer und Marc Meischke.
+Übersetzt von Matthias Schaffrath, unterstützt durch Sören Kohlmeyer.
 
 -.-  
 
-Mit Elementen der 'originalen' Rollenspiel-Ära sowie moderner d20-Theorie.  
+Mit Elementen sowohl der 'originalen' Rollenspiel-Ära als auch moderner d20-Theorie.  
 
 **DANKESCHÖN AN**  
 
-In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grongnards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
+In keiner bestimmten Reihenfolge - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, all die Arbeit, die die Grognards in das Spiel gesteckt haben, die Leute von UK OSR Hangouts, jeden, der den Kickstarter gebackt hat (ihr seid alle die Größten!) und alle anderen Leute, die daran beteiligt waren, das Hobby zu entwickeln, mit dem wir alle soviel Spaß haben.
 
 ----
 
@@ -115,7 +115,7 @@ Zeit im Spiel wird vor allem auf zwei Arten nachgehalten - **Momente** (Runden) 
 
 Anstatt genaue Werte nachzuhalten, benutzt TBH abstrakte Bereiche, mit denen die Entfernung dargestellt wird. **Schlagweite**, **Schrittweite**, **Schussweite** und **Sichtweite**. Während eines Zugs können sich Charaktere irgendwo in **Schrittweite** bewegen und ihre Handlung jederzeit während der Bewegung durchführen. Sie können ihre Handlung verfallen lassen, um sich in **Schussweite** zu positionieren. Alles jenseits von **Schussweite** gilt als in **Sichtweite** und würde drei Bewegungen erfordern.
 
-Das System soll einen Spielstil mit erzählerischem "Kopfkino" zu unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
+Das System soll einen Spielstil mit erzählerischem "Kopfkino" unterstützen und kümmert sich weniger darum, Spielfelder oder genaue Maße nachzuhalten. Um vorgegebene Bewegungsreichweiten oder Abmessungen (für Zauberreichweiten oder Flächeneffekte) umzurechnen, bietet die folgende Tabelle eine Richtlinie:
 
 | SCHLAGWEITE | SCHRITTWEITE | SCHUSSWEITE |
 |:-----------:|:------------:|:-----------:|
@@ -165,7 +165,7 @@ Wenn Spieler bei einem Angriff eine 1 würfeln, verdoppeln sie das Ergebnis des 
 
 Wenn Charaktere auf 0 **Trefferpunkte (TP)** fallen, sind sie **Außer Gefecht (AG)**. Sie sind bewusstlos und können keine Handlungen durchführen. Wenn der Kampf/die Gefahr vorbei ist, können Charaktere, die Außer Gefecht sind, auf die Tabelle (*Folgeseite*) würfeln, um zu sehen, was ihnen passiert ist. **Wer überlebt, hat danach 1W4 TP**.
 
-*Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper Charakters nicht bergen können, ist er für immer verloren!*
+*Wenn die Charaktere den Kampf verlieren oder den bewusstlosen Körper des Charakters nicht bergen können, ist er für immer verloren!*
 
 ## Mächtige Gegner
 
