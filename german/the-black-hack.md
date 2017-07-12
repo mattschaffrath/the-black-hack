@@ -44,7 +44,6 @@ Neue Charaktere beginnen das Spiel mit 3W6 x 10 Münzen, mit denen sie ihre Ausr
 
 Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stück Rüstung reduziert Schaden um einen bestimmten Betrag. Charaktere gewinnen **Rüstungspunkte (RP)** zurück, wenn sie sich ausruhen. Wenn Monster oder Charaktere mit ihrer Rüstung Schaden im Gegenwert der Rüstungspunkte aufgefangen haben, sind sie zu erschöpft oder verletzt, um ihre Rüstung weiter effektiv einzusetzen - ab dann nehmen sie vollen Schaden.
 
-<<<<<<< HEAD
 |     Rüstungstyp        | Rüstungspunkte |
 |:----------------------:|:--------------:|
 | Wams                   |   2            |
@@ -53,16 +52,6 @@ Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stü
 | Plattenrüstung         |   8            |
 | Kleiner Schild         |   2            |
 | Großer Schild          |   4            |
-=======
-|     Typ        | Punkte |
-|:--------------:|:------:|
-| Wams           |   2    |
-| Lederrüstung   |   4    |
-| Kettenhemd     |   6    |
-| Plattenrüstung |   8    |
-| Kleiner Schild |   2    |
-| Großer Schild  |   4    |
->>>>>>> work-in-progress
 
 Monster haben 1 Rüstungspunkt für jeden **Trefferwürfel(TW)** über 1, ihre Rüstungspunkte entsprechen also ihren TW -1. Außerdem können sie Schilde tragen. (Insgesamt bis zu einem Maximum von 10 RP).
 
@@ -292,11 +281,7 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Krieger
 
 **Start-TP :** W6 + 4
 **TP pro Stufe/Erholung :** 1W6
-<<<<<<< HEAD
 **Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Wams, Lederrüstung, kleine Schilde
-=======
-**Waffen & Rüstung :** Alle Schwerter, alle Bögen, Dolche, Wams, Lederrüstung, Kleine Schilde
->>>>>>> work-in-progress
 **Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
 
 ### Besondere Fähigkeiten
@@ -305,11 +290,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-<<<<<<< HEAD
 Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, klettern, lauschen, schleichen, schlösserknacken und dem Verstehen von Schriften zu tun haben.
-=======
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Schlösserknacken und dem Verstehen von Schriften zu tun haben.
->>>>>>> work-in-progress
 
 ### Stufen gewinnen
 
@@ -321,13 +302,8 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Diebe z
 
 **Start-TP :** W8 + 4
 **TP pro Stufe/Erholung :** 1W8
-<<<<<<< HEAD
 **Waffen & Rüstung :** alle stumpfen Waffen, Wams, Lederrüstung, Kettenhemd, alle Schilde
 **Angriffsschaden :** 1W6 / 1W4 unbewaffnet oder improvisiert
-=======
-**Waffen & Rüstung :** Alle stumpfen Waffen, Wams, Lederrüstung, Kettenhemd, alle Schilde
-**Angriffsschaden :** 1W6 / 1W4 Unbewaffnet oder Improvisiert
->>>>>>> work-in-progress
 
 ### Besondere Fähigkeiten
 
@@ -429,11 +405,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Leichte Wunden Heilen :** Heilt bei einem Ziel in Schrittweite 1W8 TP.
 * **Böses Erkennen :** Alles Böse in Schrittweite schimmert - 5Min.
 * **Licht :** Erschafft ein schwaches Licht an einem Ort oder Gegenstand in Schrittweite - 1Std.
-<<<<<<< HEAD
 * **Schutz vor Bösem :** Vorteil bei allen Schaden vermeidenden Proben gegen bösen Verursacher - 1Std.
-=======
-* **Schutz vor Bösem :** Vorteil bei allen Schaden vermeidenden Proben gegen Bösen Verursacher - 1Std.
->>>>>>> work-in-progress
 * **Essen und Trinken Reinigen :** Entfernt alle Krankheiten von Nahrung und Getränken in Schrittweite.
 
 **2**
@@ -463,11 +435,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **5**
 
 * **Beten :** Die Gottheit des Klerikers beantwortet wahrheitsgemäß 3 Fragen - 10Min.
-<<<<<<< HEAD
 * **Böses Aufheben :** Beendet eine (böse) göttliche Anrufung in Schrittweite.
-=======
-* **Böses Aufheben :** Beendet eine (Böse) Göttliche Anrufung in Schrittweite.
->>>>>>> work-in-progress
 * **Todesgriff :** Wähle ein Ziel in Schrittweite und mache eine **WEI**-Probe, bei Erfolg ist das Ziel Außer Gefecht.
 * **Pest :** Mache für jedes Ziel in Schrittweite eine **WEI**-Probe, bei Erfolg verliert es 2W8 TP für die nächsten 1W6 Runden.
 * **Queste :** Zwinge ein Wesen in Schrittweite, einen Befehl zu befolgen.
@@ -514,11 +482,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **3**
 
 * **Dunkelsicht :** Kann in absoluter Dunkelheit sehen - 10Min/Stufe.
-<<<<<<< HEAD
 * **Magie Aufheben :** Beendet einen arkanen Zauber in Schrittweite.
-=======
-* **Magie Aufheben :** Beendet einen Arkanen Zauber in Schrittweite.
->>>>>>> work-in-progress
 * **Feuerball :** 1W6 Wesen in Schrittweite nehmen 1W6 Schaden pro Stufe.
 * **Sprache/Magie Lesen :** Kann alle Sprachen und Zauber lesen - 10Min.
 * **Magischer Mund :** Erschafft einen illusionären Mund, der einen Satz für alle Wesen in Schrittweite wiederholt.
@@ -558,7 +522,6 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 * **Meteorschwarm :** Gleicher Effekt wie 4maliges Zaubern von Feuerball.
 * **Zeit Einfrieren :** Hält für 1W4+1 Momente die Zeit in Schrittweite vollständig an.
 
-<<<<<<< HEAD
 | Wesen                  |    TW    | Handlungen und Anmerkungen                                                                                                                           |
 |:-----------------------|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Feuerkäfer             |    1     | Lichtdrüsen haben einen Vorratswürfel von W8.                                                                                                        |
@@ -600,49 +563,6 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 | Steingolem             |   12     | Nur Zauber, die Fels und Stein betreffen, wirken, Waffen müssen +2 oder besser sein, um Schaden zu verursachen.                                      |
 | Gigantenschnecke       |   12     | Spuckt Säure - W4+2 Ziele in Schrittweite (1W12), GES-Probe für halben Schaden.                                                                      |
 | Drache                 | 9 bis 11 | 2 Klauen (1W8) + Biss (1W10), Feueratem - W4+2 Ziele in Schrittweite (3W8). Kann 1W4 Sprüche Stufe 1 und 1W2 Sprüche Stufe 2 einsetzen.              |
-=======
-| Wesen                  |    TW    | Handlungen und Anmerkungen                                                                                                                         |
-|:-----------------------|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Feuerkäfer             |    1     | Lichtdrüsen haben einen Vorratswürfel von W8.                                                                                                      |
-| Riesenvampirfledermaus |    1     | 1W6 Schaden im nächsten Moment nach Angriff.                                                                                                       |
-| Riesentausenfüßler     |    1     | Biss (0) plus AUS-Probe oder AG, hat nur 1-2 TP.                                                                                                   |
-| Dämon (Mane)           |    1     | 2 Klauen (1W2) + 1 Biss (1W4), halber Schaden durch nichtmagische Waffen.                                                                          |
-| Goblin                 |    1     | Hat nur 1W6 TP.                                                                                                                                    |
-| Hobgoblin              |    1     | Hat meist ein Ersatzschild falls eins zerschmettert wird.                                                                                          |
-| Menschlicher Berserker |    1     | Nachteil bei Verteidigung wenn von Berserker angegriffen.                                                                                           |
-| Riesenameisenkrieger   |    2     | Giftbiss (1W6) + AUS-Probe oder +2W6 Schaden für Angriff.                                                                                          |
-| Aaskriecher            |    2     | Biss (1) + 6 Tentakel (0) + AUS-Probe oder erstarrt.                                                                                               |
-| Ghul                   |    2     | 2 Klauen (1W3) + 1 Biss (1W4) + AUS-Probe oder erstarrt.                                                                                           |
-| Riesenegel             |    2     | Stufenraub (-1) im Moment nachdem Schaden gemacht wurde.                                                                                                 |
-| Schrat                 |    3     | Alle GES-Proben haben Nachteil.                                                                                                                    |
-| Harpyie                |    3     | Lied - CHA-Probe oder SCs müssen sich auf sie zubewegen.                                                                                           |
-| Werratte               |    3     | Kein Vorteil beim Überraschen von Werratte.                                                                                                        |
-| Schatten               |    3     | Berührung (1W4 und -1 STÄ), kann nur von magischen Waffen getroffen werden.                                                                        |
-| Doppelgänger           |    3     | Kann in einem Moment die Gestalt ändern, Nachteil gegen magische Proben.                                                                           |
-| Gruftschrecken         |    3     | Kann nur von magischen oder Silberwaffen getroffen werden, Stufenraub (-1) bei Treffer.                                                                   |
-| Flimmerhund            |    4     | Kann einmal pro Kampf teleportieren.                                                                                                               |
-| Grizzlybär             |    4     | 2 Klauen (1W3) + wenn beide treffen Schwitzkasten für 1W8 Schaden.                                                                                 |
-| Gargyl                 |    4     | 2 Klauen (1W3) + 1 Biss (1W4) + 1 Horn (1W6).                                                                                                      |
-| Gallertwürfel          |    4     | AUS-Probe bei Berührung oder erstarrt, immun gegen Kälte und Blitze.                                                                               |
-| Werwolf                |    4     | Kann nur von Silberwaffen verletzt werden.                                                                                                         |
-| Oger                   |    4     | Vorteil bei allen CHA-Proben gegen Oger.                                                                                                           |
-| Cockatrice             |    5     | Biss (1W3) und AUS-Probe oder versteinert.                                                                                                         |
-| Eulenbär               |    5     | 2 Klauen (1W6) + 1 Biss (2W6) + Schwitzkasten für 2W8 wenn beim Ausweichen 1-4 gewürfelt.                                                          |
-| Basilisk               |    6     | AUS-Probe bei Augenkontakt oder versteinert.                                                                                                       |
-| Succubus/Incubus       |    6     | 2 Klauen (1W3), Vorteil bei magischen Proben, immun gegen nichtmagische Waffen, Stufenraub (-1) durch Kuss. Kann 1/Std. Bezaubern (Zauber) einsetzen. |
-| Mumie                  |    6     | Angriffe verhindern Heilung bis Wunden Heilen gezaubert, immun gegen normale Waffen, 1/2 Schaden durch magische Waffen.                            |
-| Banshee                |    7     | Kreischen - AUS-Probe oder für 2W6 Momente erstarrt.                                                                                               |
-| Dschinn                |    7     | Kann als Handlung körperlos werden, Gegenstände und Illusionen erschaffen oder Unsichtbarkeit (Zauber) einsetzen.                                  |
-| Phantom                |    8     | Ein Wesen, das von einem Phantom getötet wird, kehrt selbst in 1W6 Minuten als Phantom zurück.                                                     |
-| Chimäre                |    8     | 2 Klauen (1W3) + 2 Ziegenhörner (1W4) + 1 Löwenbiss (2W4) + 1 Drachenbiss (3W4) oder Feuerdrachenatem (3W8).                                         |
-| Balor (Dämon)          |    9     | Schwert (1W12+2) + Peitsche (0) GES-Probe oder wird in Schlagweite zum Balor gezogen und brennt für 3W6 Feuerschaden.                                  |
-| Hezrou (Dämon)         |    9     | 2 Klauen (1W3) + 1 Biss (2W8), Verursacht Furcht (wie Verbannen) oder Dunkelheit (Zauber) - je einmal pro Kampf.                                   |
-| Schwarzer Blob         |   10     | Metallgegenstände, die ihn berühren, schmelzen im nächsten Moment.                                                                                 |
-| Eisriese               |   10     | Schleudert Felsen oder riesige Eisbrocken.                                                                                                         |
-| Steingolem             |   12     | Nur Zauber, die Fels und Stein betreffen, wirken, Waffen müssen +2 oder besser sein, um Schaden zu machen.                                         |
-| Gigantenschnecke       |   12     | Spuckt Säure - W4+2 Ziele in Schrittweite (1W12), GES-Probe für halben Schaden.                                                                            |
-| Drache                 | 9 bis 11 | 2 Klauen (1W8) + Biss (1W10), Feueratem - W4+2 Ziele in Schrittweite (3W8). Kann 1W4 Sprüche Stufe 1 und 1W2 Sprüche Stufe 2 einsetzen.                     |
->>>>>>> work-in-progress
 
 ## Spielbeispiel
 
