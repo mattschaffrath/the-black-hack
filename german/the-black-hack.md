@@ -26,7 +26,7 @@ The Black Hack (TBH) ist ein traditionelles Tischrollenspiel, das mit Papier, St
 
 Wann immer Charaktere versuchen, etwas zu tun, das möglicherweise scheitern könnte, wird der Erfolg mit einer Probe auf einen Eigenschaftswert getestet. Um eine Probe erfolgreich zu bestehen, müssen Spieler mit einem W20 ***unter*** den entsprechenden Eigenschaftswert würfeln.
 
-Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das einzige, das Monster würfeln, ist ihr Schaden.
+Monster würfeln keine Proben - Spielercharaktere müssen ihren Angriffen ausweichen, indem sie eine Probe bestehen. Das Einzige, was Monster würfeln, ist ihr Schaden.
 
 ## Eigenschaftswerte auswürfeln
 
@@ -44,20 +44,20 @@ Neue Charaktere beginnen das Spiel mit 3W6 x 10 Münzen, mit denen sie ihre Ausr
 
 Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stück Rüstung reduziert Schaden um einen bestimmten Betrag. Charaktere gewinnen **Rüstungspunkte (RP)** zurück, wenn sie sich ausruhen. Wenn Monster oder Charaktere mit ihrer Rüstung Schaden im Gegenwert der Rüstungspunkte aufgefangen haben, sind sie zu erschöpft oder verletzt, um ihre Rüstung weiter effektiv einzusetzen - ab dann nehmen sie vollen Schaden.
 
-|     Rüstungstyp        | Rüstungspunkte |
-|:----------------------:|:--------------:|
-| Wams                   |   2            |
-| Lederrüstung           |   4            |
-| Kettenhemd             |   6            |
-| Plattenrüstung         |   8            |
-| Kleiner Schild         |   2            |
-| Großer Schild          |   4            |
+|     Rüstungstyp        | RP |
+|:----------------------:|:--:|
+| Wams                   | 2  |
+| Lederrüstung           | 4  |
+| Kettenhemd             | 6  |
+| Plattenrüstung         | 8  |
+| Kleiner Schild         | 2  |
+| Großer Schild          | 4  |
 
 Monster haben 1 Rüstungspunkt für jeden **Trefferwürfel(TW)** über 1, ihre Rüstungspunkte entsprechen also ihren TW -1. Außerdem können sie Schilde tragen. (Insgesamt bis zu einem Maximum von 10 RP).
 
 ## Rüstungsfähigkeit
 
-Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addieren sie alle ihre Rüstungspunkte (egal wie viele sie davon verbraucht haben) auf alle Würfelergebnisse zum **Angreifen** oder **Schaden vermeiden**.
+Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addieren sie all ihre Rüstungspunkte (egal wie viele sie davon verbraucht haben) auf alle Würfelergebnisse zum **Angreifen** oder **Schaden vermeiden**.
 
 
 
@@ -94,7 +94,7 @@ Wenn Charaktere Rüstung tragen, die bei ihrer Klasse nicht angegeben ist, addie
 
 ## Rettungswürfe
 
-The Black Hack verwendet keine Rettungswürfe, stattdessen lässt es die Spieler eine Eigenschaftsprobe würfeln, wenn sie von irgendeinem Zauber, einer Falle oder einem anderen Effekt betroffen werden - dazu untenstehend eine Orientierung. Beachtet auch die Regel aus dem Abschnitt **Mächtige Gegner**.
+The Black Hack verwendet keine Rettungswürfe. Stattdessen lässt es die Spieler eine Eigenschaftsprobe würfeln, wenn sie von irgendeinem Zauber, einer Falle oder einem anderen Effekt betroffen werden - dazu untenstehend eine Orientierung. Beachtet auch die Regel aus dem Abschnitt **Mächtige Gegner**.
 
 |                         STÄ                          |                      GES                       |            AUS           |
 |:----------------------------------------------------:|:----------------------------------------------:|:------------------------:|
@@ -143,7 +143,7 @@ Für einen **Nahkampfangriff** muss man in **Schlagweite** zu einem Gegner stehe
 
 ## Zweihändige Waffen
 
-Größere, tödlichere Waffen werden dargestellt, indem einfach +2 auf alle Würfel addiert wird, die für sie geworfen werden. Sie machen daher mehr Schaden, aber es ist auch schwerer mit ihnen zu treffen.
+Größere, tödlichere Waffen werden dargestellt, indem einfach +2 auf alle Würfel addiert wird, die für sie geworfen werden. Sie machen daher mehr Schaden, aber es ist auch schwerer, mit ihnen zu treffen.
 
 ## Kritischer Schaden
 
@@ -191,7 +191,7 @@ Ein SL kann entscheiden, dass eine bestimmte Herangehensweise oder Aufgabe eine 
 
 ## Erholung
 
-Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie alle ihre Rüstungspunkte zurück. Einmal pro Tag können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist, und erhalten dementsprechend viele **TP** zurück.
+Wenn Charaktere sich für etwa eine Stunde ausruhen können, gewinnen sie all ihre Rüstungspunkte zurück. Einmal pro Tag können sie nach dem Ausruhen den **Trefferwürfel** würfeln, der für ihre Klasse angegeben ist, und erhalten dementsprechend viele **TP** zurück.
 
 ## Erfahrung
 
@@ -290,7 +290,7 @@ Diebe würfeln mit einem **Vorteil** bei **GES**-Proben um Schaden oder Effekte 
 
 Diebe würfeln mit **Vorteil** wenn sie von hinten angreifen und verursachen dabei 2W6 / 2W4 + ihre Stufe Schaden.
 
-Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, klettern, lauschen, schleichen, schlösserknacken und dem Verstehen von Schriften zu tun haben.
+Diebe würfeln mit **Vorteil** bei Tätigkeiten, die mit Fingerfertigkeit, Klettern, Lauschen, Schleichen, Schlösserknacken und dem Verstehen von Schriften zu tun haben.
 
 ### Stufen gewinnen
 
@@ -317,11 +317,11 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Klerike
 
 ### Göttliche Anrufungen
 
-Ab der zweiten Stufe können Kleriker täglich eine gewisse Anzahl von göttlichen Anrufungen durchführen, siehe den Abschnitt zu Zaubersprüchen.
+Ab der zweiten Stufe können Kleriker täglich eine gewisse Anzahl von **göttlichen Anrufungen** durchführen, siehe den Abschnitt zu Zaubersprüchen.
 
 ### Gebetbuch
 
-Kleriker beginnen das Spiel mit einem großen Gebetbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste göttlicher Anrufungen enthält.
+Kleriker beginnen das Spiel mit einem großen Gebetbuch, das zu Beginn 1W4 Zaubersprüche der Stufe 1 und 2 von der Liste **göttlicher Anrufungen enthält**.
 
 ----
 
@@ -342,11 +342,11 @@ Beim Würfeln, um festzustellen ob sich Eigenschaften erhöhen, würfeln Zaubere
 
 ### Arkane Zauberformeln
 
-Zauberer können täglich eine gewisse Anzahl an arkanen Zauberformeln benutzen, siehe den Abschnitt zu Zaubersprüchen.
+Zauberer können täglich eine gewisse Anzahl an **arkanen Zauberformeln** benutzen, siehe den Abschnitt zu Zaubersprüchen.
 
 ### Zauberbuch
 
-Zauberer beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4+2 Zaubersprüche der Stufe 1 und 2 von der Liste arkaner Zauberformeln enthält.
+Zauberer beginnen das Spiel mit einem großen Zauberbuch, das zu Beginn 1W4+2 Zaubersprüche der Stufe 1 und 2 von der Liste **arkaner Zauberformeln** enthält.
 
 -----
 
@@ -435,7 +435,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **5**
 
 * **Beten :** Die Gottheit des Klerikers beantwortet wahrheitsgemäß 3 Fragen - 10Min.
-* **Böses Aufheben :** Beendet eine (böse) göttliche Anrufung in Schrittweite.
+* **Böses Aufheben :** Beendet eine (böse) **göttliche Anrufung** in Schrittweite.
 * **Todesgriff :** Wähle ein Ziel in Schrittweite und mache eine **WEI**-Probe, bei Erfolg ist das Ziel Außer Gefecht.
 * **Pest :** Mache für jedes Ziel in Schrittweite eine **WEI**-Probe, bei Erfolg verliert es 2W8 TP für die nächsten 1W6 Runden.
 * **Queste :** Zwinge ein Wesen in Schrittweite, einen Befehl zu befolgen.
@@ -482,7 +482,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **3**
 
 * **Dunkelsicht :** Kann in absoluter Dunkelheit sehen - 10Min/Stufe.
-* **Magie Aufheben :** Beendet einen arkanen Zauber in Schrittweite.
+* **Magie Aufheben :** Beendet eine **arkane Zauberformel** in Schrittweite.
 * **Feuerball :** 1W6 Wesen in Schrittweite nehmen 1W6 Schaden pro Stufe.
 * **Sprache/Magie Lesen :** Kann alle Sprachen und Zauber lesen - 10Min.
 * **Magischer Mund :** Erschafft einen illusionären Mund, der einen Satz für alle Wesen in Schrittweite wiederholt.
@@ -572,7 +572,7 @@ Anmerkung: Spalten stellen die *Stufe der täglichen Sprüche* dar, Zeilen die *
 **Dieb :** Ich bewege mich dorthin und benutze meine Handlung, um nach Fallen zu suchen.
 **Krieger :** Vorausgesetzt dass alles sicher ist, würde ich versuchen, die Gitterstäbe aufzubiegen.
 **Zauberer :** Und ich möchte Licht auf meinen Stab zaubern.
-**SL :** Ok, Dieb, mach eine Geschickprobe, indem du mit einem W20 deinen GES-Wert unterwürfelst, um das Gitter nach Fallen abzusuchen.
+**SL :** Ok, Dieb, mach eine Geschickprobe, indem du mit einem W20 deinen GES-Wert unterwürfelst - um das Gitter nach Fallen abzusuchen.
 **Dieb :** \*würfelt\* Geschafft!
 **SL :** Du bist sicher, dass nichts am Gitter euch absichtlich Schaden zufügen soll. Krieger, willst du immer noch die Stäbe auseinanderbiegen? Wenn ja, dann mach eine Stärkeprobe!
 **Krieger :** \*würfelt\* Kinderspiel!
